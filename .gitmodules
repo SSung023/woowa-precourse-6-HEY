@@ -1,0 +1,3 @@
+[submodule "submit/java-baseball-6"]
+	path = submit/java-baseball-6
+	url = https://github.com/SSung023/java-baseball-6.git
