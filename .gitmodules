@@ -7,3 +7,6 @@
 [submodule "submit/java-lotto-6"]
 	path = submit/java-lotto-6
 	url = https://github.com/SSung023/java-lotto-6.git
+[submodule "submit/java-christmas-6"]
+	path = submit/java-christmas-6
+	url = https://github.com/SSung023/java-christmas-6-SSung023.git
